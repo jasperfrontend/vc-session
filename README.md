@@ -9,3 +9,11 @@ The list of links demonstrated during my session.
 *	https://alexk111.github.io/SVG-Morpheus/ icon morphing
 *	http://orbit.bonsaijs.org/ cool animation demos
 *	https://glyphter.com/ make your own svg font
+
+## Codepen responsive images demo
+* [https://codepen.io/jasper/...](https://codepen.io/jasper/pen/01014c27180eefe8823add241184ef56)
+
+## Links from previous presentation
+
+* [codepen](http://bit.ly/vc-presentation) my previous presentation and demo files
+* [Tinypng](https://tinyjpg.com/) to make your images smaller in filesize without losing quality
