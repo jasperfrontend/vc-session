@@ -5,7 +5,7 @@ Code and links that were shown during my Break Out Session @ Venture Café Rotte
 The list of links demonstrated during my session.
 
 * https://docs.google.com/drawings/ draw your own svg images
-*	http://snapsvg.io/demos/ animaged svg demos
+*	http://snapsvg.io/demos/ animated svg demos
 *	https://alexk111.github.io/SVG-Morpheus/ icon morphing
 *	http://orbit.bonsaijs.org/ cool animation demos
 * https://vectr.com/perjas/welcome create svg vector graphics online for free
@@ -18,3 +18,4 @@ The list of links demonstrated during my session.
 
 * [codepen](http://bit.ly/vc-presentation) my previous presentation and demo files
 * [Tinypng](https://tinyjpg.com/) to make your images smaller in filesize without losing quality
+* [GTmetrix](http://gtmetrix.com) check how fast your website really is
